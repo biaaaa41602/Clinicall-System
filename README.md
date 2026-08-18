@@ -64,7 +64,7 @@ O sistema permite que administradores cadastrem médicos e pacientes, e que os a
 
 ## Melhorias futuras
 
-Este projeto foi desenvolvido durante a graduação com foco em praticar lógica de programação e estrutura de um sistema real. Pontos identificados para uma próxima versão, já mapeados:
+Este projeto foi desenvolvido durante a graduação com foco em praticar lógica de programação e estrutura de um sistema real. Pontos identificados para uma próxima versão:
 
 - [ ] Migrar armazenamento de senhas para hash (ex: BCrypt) em vez de texto puro
 - [ ] Substituir concatenação de SQL por queries parametrizadas, reforçando a proteção contra SQL Injection
