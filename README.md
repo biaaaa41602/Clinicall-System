@@ -29,17 +29,16 @@ O sistema permite que administradores cadastrem médicos e pacientes, e que os a
 ![Tela de login](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/login.png.png)
 
 **Menu Principal**
-![Menu principal]([screenshots/menu.png](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/menu.png.png
-))
+![Menu principal](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/menu.png.png)
 
 **Cadastro de Usuários**
-![Cadastro de usuários]([screenshots/cadastro.png](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/cadastro.png.png))
+![Cadastro de usuários](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/cadastro.png.png)
 
 **Agendamento de Consulta**
-![Agendamento de consulta]([screenshots/mconsulta.png](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/mconsulta.png.png))
+![Agendamento de consulta](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/mconsulta.png.png)
 
 **Consultas Marcadas**
-![Consultas marcadas]([screenshots/consultam.png](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/consultam.png.png))
+![Consultas marcadas](https://github.com/biaaaa41602/Clinicall-System/blob/master/screenshots/consultam.png.png)
 
 ## Tecnologias utilizadas
 
