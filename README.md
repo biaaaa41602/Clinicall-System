@@ -81,4 +81,4 @@ Este projeto está sob a licença MIT — veja o arquivo [LICENSE.txt](LICENSE.t
 Desenvolvido por **Beatriz Stênico** como projeto prático de Engenharia de Software.
 
 - GitHub: [@biaaaa41602](https://github.com/biaaaa41602)
-- LinkedIn: [beatriz-stenico](https://www.linkedin.com/in/beatriz-stenico-ba3aa0321)
+- LinkedIn: [beatriz-stenico](https://www.linkedin.com/in/beatriz-stênico-ba3aa0321)
